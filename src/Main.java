@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Данные ФИО сотрудника для заполнения отчета —"+fullName.toUpperCase());
 
         System.out.println("Домашнее задание 3");
-
+//
 
         fullName = "Иванов Семён Семёнович";
         System.out.println(fullName.replaceAll("ё", "е"));
